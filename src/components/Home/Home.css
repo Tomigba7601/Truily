@@ -1,0 +1,9 @@
+#sec {
+    margin-left:8%;
+}
+
+@media (max-width: 768px) {
+    #sec {
+        margin-left: 1%;
+    }
+}
