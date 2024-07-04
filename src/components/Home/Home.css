@@ -1,9 +1,5 @@
-#sec {
-    margin-left:8%;
-}
-
-@media (max-width: 768px) {
-    #sec {
-        margin-left: 1%;
-    }
+.landing-img{
+    background-image:url(../../assets/shadow.png);
+    width:100%;
+    height:695px;
 }
